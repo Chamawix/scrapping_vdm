@@ -1,0 +1,10 @@
+Flask
+python-dateutil
+datetime
+nltk
+requests
+unidecode
+lxml
+bs4
+dicttoxml
+
