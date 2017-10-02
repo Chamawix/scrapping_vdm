@@ -14,7 +14,7 @@ En lançant "python app.py" via la console.
 Les URLs sont :
 127.0.0.1/api/posts -> affiche les 200 derniers posts
 127.0.0.1/api/posts/<ID> -> récupère le post d'ID donné, si il existe
-127.0.0.1/api/posts/author=<auteur> -> récupère tous les postes d'un autre donné
+127.0.0.1/api/posts/author=<auteur> -> récupère tous les postes d'un auteur donné
 127.0.0.1/api/posts/from=<2017-09-28T09:00:00Z>&to=<2017-12-31T00:00:00Z> -> récupère tous les postes entre ces deux dates, dates à mettre a ce format la spécifiquement. 
 
 #############################################
