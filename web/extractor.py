@@ -142,19 +142,20 @@ class Extractor :
 			result['author']=author['content']
 
 		#Recupere les articles et les dates
-		for article in soup.find_all("article", class_="art-panel  "):
+		for article in soup.find_all("article", class_="art-panel "):
 			s= ""
 			for content in article.find_all("p"):
-
 				s= s+" <br> "+strip_accents(content.text)
 				s = s.replace("\'"," " )
+			#print "content : "
+			#print s.encode("utf-8")
 
 			result["content"] = s
 
 			for date in article.find_all('div', class_="text-center block"):
 				print strip_accents(date.text)
-				print "Patientez s'il vous plait. Progression : "+ str(result["id"])+"/"+str(len(self.all_links))
 				result["date"]= format_date(strip_accents(date.text))
+				print "Patientez s'il vous plait. Progression : "+ str(result["id"])+"/"+str(len(self.all_links))
 
 
 		return result
@@ -184,8 +185,8 @@ class Extractor :
 def main():
 	ex =  Extractor()
 	ex.create_json(2)
-
-	print(ex)
+	
+	#print(ex)
 
 
 

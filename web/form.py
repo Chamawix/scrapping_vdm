@@ -16,7 +16,7 @@ class Form:
 			pass
 			#do nothing
 		#ne fonctionne pas sous docker
-		v_input = raw_input("\nPlease enter the \"fecth\" command to fetch all the data :\n")
+		v_input = raw_input("\nPlease enter the \"fetch\" command to fetch all the data :\n")
 	 	return v_input
 
 if __name__ == '__main__':

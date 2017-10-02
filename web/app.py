@@ -78,12 +78,12 @@ def is_between_time(s_date, e_date, check_date):
 #Accès par defaut dans l'url locale
 @app.route("/")
 def helloworld():
-	return "Hi ! Welcome to this Flask Mini-Server ! \n \nIf you want to do something, use your local_url/API/posts, to access to all the post in a very raw way. I had fun creating this !"
+	return "Hi ! Welcome to this Flask Mini-Server ! \n \nIf you want to do something, use your local_url/api/posts, to access to all the post in a very raw way. I had fun creating this !"
 
 #Montre toute la liste de post
 @app.route("/api/posts", methods=['GET'])
 def show_extracted_info():
-	print(infos)
+	#print(infos)
 	try:
 		#xml = dicttoxml(infos, custom_root='test', attr_type=False)
 		j_dump = json.dumps(infos, indent=2)
