@@ -62,12 +62,11 @@ class Extractor :
 		address = "http://www.viedemerde.fr/news"+"?page="+str(p)
 		#tokens = nltk.word_tokenize(keyword)
 
-		headers = {"Host":" www.viedemerde.fr",
-		'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-		'Accept-Encoding': 'gzip, deflate, br',
-		'Accept-Language': 'fr,fr-FR;q=0.8',
-		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'
-		}
+		headers = {"Host":"www.viedemerde.fr"
+		,'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+		,'Accept-Encoding': 'gzip, deflate, br'
+		,'Accept-Language': 'fr,fr-FR;q=0.8'
+		,'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'}
 
 		
 
@@ -121,12 +120,11 @@ class Extractor :
 		result["id"]= self.all_links.index(url)+1
 
 		address = "http://www.viedemerde.fr"+url
-		headers = {"Host":" www.viedemerde.fr",
-		'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-		'Accept-Encoding': 'gzip, deflate, br',
-		'Accept-Language': 'fr,fr-FR;q=0.8',
-		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'
-		}
+		headers = {"Host":"www.viedemerde.fr"
+		,'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+		,'Accept-Encoding': 'gzip, deflate, br'
+		,'Accept-Language': 'fr,fr-FR;q=0.8'
+		,'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'}
 		
 
 		try:
