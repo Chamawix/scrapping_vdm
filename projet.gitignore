@@ -1,0 +1,5 @@
+
+
+#Ignore les fichiers .pyc, pyd & pyo
+*.py[ocd]
+
