@@ -28,16 +28,19 @@ infos={}
 #Nombre de post extraits
 nb_posts =200
 
+#Nb test de la request "fetch":
+nb_test=3
 
 # Mini-interface pour fetch :
 def fetch_it():
-	nb_test=3
 	actual_test =0
 	request = ""
 	request_ask = form.Form()
+
 	while request != "fetch" and actual_test<nb_test:
 		request = request_ask.request_form()
 		actual_test = actual_test+1
+	
 	if actual_test>= nb_test:
 		return -1
 	else :

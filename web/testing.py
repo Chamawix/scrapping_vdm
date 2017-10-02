@@ -1,8 +1,10 @@
 import unittest
 
+import form
 import extractor
 from app import launch
 from app import is_between_time
+
 
 
 
@@ -13,6 +15,10 @@ class TestMethods(unittest.TestCase):
 		self.s_date = "zeizo"
 		self.e_date="0"
 		self.check_date ="3829"
+		self.ask = form.Form()
+
+	def test_form(self):
+		self.assertTrue(self.ask.request_form()== -1 or type(self.ask.request_form()) is str)
 
 	def test_extraction_liste_liens(self):
 		self.assertFalse(self.ex.extractArticleListToExplore(1) == -1)
