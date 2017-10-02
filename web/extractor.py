@@ -95,6 +95,8 @@ class Extractor :
 			if  len(self.all_links)>=self.nb_article:
 				continue
 			for link in article.find_all('a'):
+				if link.get("href") is None:
+					continue
 				if "/article" in link.get("href") and ".html" in link.get("href"):
 					n_link = link.get('href')
 					if n_link not in self.all_links:
@@ -143,7 +145,6 @@ class Extractor :
 
 		#Recupere les articles et les dates
 		for article in soup.find_all("article", class_="art-panel  "):
-			pass
 			s= ""
 			for content in article.find_all("p"):
 
