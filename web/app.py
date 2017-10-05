@@ -17,16 +17,19 @@ import datetime
 
 import extractor
 import form
+import classification
 
 app = Flask(__name__)
 
 #On definit l'extracteur :
 ex = extractor.Extractor()
+
+
 #Notre BDD :)
 infos={}
 
 #Nombre de post extraits
-nb_posts =200
+nb_posts =100
 
 #Nb test de la request "fetch":
 nb_test=3
@@ -168,12 +171,19 @@ def launch():
 if __name__ == "__main__":
 	#1)
 	# Malheureusement, j'ai pas reussi à le faire marcher avec Docker
-	u_input = fetch_it()
-
+	#u_input = fetch_it()
+	u_input = "fetch"
 	if u_input != -1:
 		#2)
 		infos = ex.create_json(nb_posts)
+		#2.5)
+		#On définit le classifieur :
+		#classifier = classification.Classifier(infos)
+		
+		#classifier.find_unit_vdm()
+		
 		#3)
-		app.run()
+		#app.run()
+
 	else :
 		print "app cancel"

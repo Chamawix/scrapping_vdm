@@ -157,7 +157,8 @@ class Extractor :
 				result["date"]= format_date(strip_accents(date.text))
 				print "Patientez s'il vous plait. Progression : "+ str(result["id"])+"/"+str(len(self.all_links))
 
-
+			if result["author"]=="VDM" or result["author"]=="Alan":
+				print result
 		return result
 
 	def create_json(self, length=1):

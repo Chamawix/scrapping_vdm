@@ -1,0 +1,76 @@
+################# Objectif des analyses des articles du site vdm ################
+
+L'idée est de créer un outil d'évaluation du texte de la VDM, pour reconnaître la valeur, à l'extérieur du site, d'une news, et pouvoir la relayer automatiquement/semi-automatiquement (avec validation) sur le site. 
+
+On va donc créer un algorithme qui va s'occuper de classifier les VDM "unitaire" dans l'objectif de les détecter, et qui, si il est appliqué à du scrapping, pourra détecter/filtrer les VDMs "unitaires" potentielles sur les sites externes à VDM.  
+
+################# Courte analyse du marché de VDM ########################
+
+Avec la multiplication des flux d'informations et de média, VDM, en tant que site internet, a perdu la portée qu'il avait lors de son lancement. Quand on regarde l'historique des meilleurs VDM, ce sont celles de ses débuts qui ont les meilleurs retours et partages, dans les années 2008. L'explosion de Twitter, quelques années plus tard (2010-2012), peut expliquer le déportage de certains utilisateurs vers ce réseau social. 
+En effet, ce réseau social permet à la fois de raconter ses tracas et avoir une démarche similaire à VDM, tout en y affichant ses réussites & autres idées. 
+
+Malgré tout, son contenu spécialisé le permet de se démarquer, et il s'est transformé en une sorte de revue d'informations insolites, avec la possibilité de diffuser/partager sa mésaventure. 
+Le site est aujourd'hui inscrit dans ces réseaux sociaux, à une application mobile, dans l'objectif son contenu avec une plus grande diffusion. 
+
+
+################ Objectif business ####################
+
+L'objectif business sera de permettre à VDM de pouvoir mettre en place rapidement un check-up des nouvelles VDM hors de son site, et de pouvoir rapidement les concentrer sur son site.
+Similairement à la VDM news/People, l'idée est de pouvoir créer des articles à partir de contenu sélectionné & filtré par l'algorithme, racontant une VDM d'un profil Facebook/Tweeter/Instagram. 
+En allant plus loin que le people/star reconnu facilement accessible grâce aux sites de news, et en touchant le réseau, complexe, des micro-influencers, VDM pourrait apporter une visibilité plus grande à certains profils, à travers des articles signifiant des mésaventures rendues publiques. 
+En échange, le site récupèrerait une meilleure diffusion liée aux communautées spécialisées. 
+
+
+################ Définition d'une VDM dite "unitaire" ####################
+
+Sur le site, il existe plusieurs type d'articles de VDM, les VDM de compilation, les VDM associés à un people, les VDM news qui concernent une histoire généralement insolite récupéré dans les médias, et les VDM que nous nommerons "unitaire", c'est à dire qui concernent des gens qui parlent de leur journée. 
+
+Une VDM "unitaire" est associée à une mésaventure qui arrive a l'envoyeur ou un groupe dans lequel il appartient. Elle a une forme particulière et reconnaissable. 
+En effet, une VDM est une sorte de tweet, mais limité aux tracas de la vie, associé une forme de dévalorisation de soi.
+
+
+################ Analyse d'une VDM "unitaire" ################
+
+Prenons un exemple du site :
+<Aujourd’hui, nous avons tellement peu de temps de pause repas dans notre école que nous devons choisir entre manger ou aller aux toilettes. VDM >
+
+Elle contient donc un sujet, une péripétie, généralement courte, et une conclusion.
+- nous -> sujet
+- avons tellement peu de temps de pause repas dans notre école -> péripétie
+- que nous devons choisir entre manger ou aller aux toilettes -> conclusion 
+
+La conclusion est ici incluse dans la phrase de la péripétie. Parfois elle peut être sous la forme de d'une chute. 
+On notera que dans la péripétie se trouve l'expression de la négativité de la situation : "... avons tellement peu  ..."
+
+Le placement final du <VDM> est une habitude du site internet, qui nous permettra plus facilement de distinguer les VDMs "unitaires" mais qui ne se trouvera pas dans les sites externes, et sera donc à omettre.
+
+Notre objectif est donc d'apprendre à une classifieur, via des variables, à détecter les formes redondantes des VDMs "unitaire", pour permettre à ce même classifieur des les distinguer sur différent site internet, à partir d'une extraction de contenu. 
+
+
+################ Dégager des variables ####################
+On peut facilement isoler des VDMs dîtes unitaires (classe : positives) et des VDMs non unitaire (classe : négatives), l'idée est de dégager des variables à partir de ces exemples d'articles. 
+
+Pour l'instant j'ai identifié plusieurs variables potentielles sur lesquels il pourrait y avoir une information importante dans l'objectif d'automatisation :
+
+Variables simples, statistiques :
+- Le nombre de proposition de l'article identifié. (Est-ce un format plus long qu'un tweet/vdm unitaire?)
+- Le nombre de phrases
+- L'étude de la sentimentalité (positif, négatif, neutre?)
+
+Variables composites :
+- L'identification d'une chute / conclusion, et plus généralement, d'un format narratif avec intro/péripétie & conclusion. 
+Peut s'obtenir avec l'étude du Part of speech (POS), et la distinction des propositions.
+
+- L'identification des thèmes majeurs liés aux tracas de vie courante. 
+Peut être fait sous la forme de règles associés à certains mots/tag, que l'on peut retrouver sur le site VDM & dans les exemples de la base d'apprentissage. 
+
+################ L'approche choisie : apprentissage supervisé ######################
+
+Grâce à l'extraction du site VDM, on dispose d'un set de donnée assez grand si on prend le temps d'extraire un bon nombre de donnée. Mais surtout, leur classification manuelle (tag) est rapide, puisque sur le site VDM, il y a une forme canon de la VDM "unitaire", sous la forme de "Aujourd'hui, je/j'ai etc...". 
+
+De ce fait, en retirant cette forme canon, mais en gardant le tag de classification, on va pouvoir disposer d'un solide set d'apprentissage pour permettre l'identification de VDM "unitaire" en dehors du site internet (sur les réseaux sociaux comme twitter). 
+
+Nous allons donc nous diriger vers de l'apprentissage supervisé, en testant plusieurs méthodes de visualisation des variables et plusieurs méthodes d'apprentissage en compétition. 
+
+La base de donnée test sera composées d'échantillons positifs & négatifs récupérés manuellement sur les réseaux sociaux & provenant de traduction de FML (fuck my life, version anglaise de VDM) ainsi que de quelques VDMs non issues de la base d'apprentissage.
+Bien entendu, l'objectif est d'optimiser les résultats sur les échantillons "hors site". 
