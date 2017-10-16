@@ -35,6 +35,7 @@ def format_date(string) :
 	return res
 
 
+
 #Class s'occupant de l'extraction de l'information sur VDM
 class Extractor :
 

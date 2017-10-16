@@ -54,7 +54,7 @@ Pour l'instant j'ai identifié plusieurs variables potentielles sur lesquels il 
 
 Variables simples, statistiques :
 - Le nombre de proposition de l'article identifié. (Est-ce un format plus long qu'un tweet/vdm unitaire?)
-- Le nombre de phrases
+- Le nombre de phrases/ratio des mots et phrase
 - L'étude de la sentimentalité (positif, négatif, neutre?)
 
 Variables composites :
@@ -74,3 +74,4 @@ Nous allons donc nous diriger vers de l'apprentissage supervisé, en testant plu
 
 La base de donnée test sera composées d'échantillons positifs & négatifs récupérés manuellement sur les réseaux sociaux & provenant de traduction de FML (fuck my life, version anglaise de VDM) ainsi que de quelques VDMs non issues de la base d'apprentissage.
 Bien entendu, l'objectif est d'optimiser les résultats sur les échantillons "hors site". 
+

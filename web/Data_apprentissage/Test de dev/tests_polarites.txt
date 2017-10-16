@@ -1,0 +1,1553 @@
+
+Aujourd hui, ma copine et moi nous lancons pour la premiere fois dans des preliminaires. Je lui caresse la poitrine et, ne voyant aucune reaction de sa part, la regarde, soucieux. La, elle me touche le torse et dit : " Et toi, ca te fait quelque chose ? Bah alors ?!" VDM\n\n
+
+sentiment_values :
+{'polarity': -0.1875, 'joy': 1, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 2}
+8
+10
+ratio nb_mot / possessif/perso :
+160
+ratio de pronoms ciblant auteur des pronoms :
+37
+
+Aujourd hui, j en ai marre de voir mon homme jouer a sa console. Je decide donc de l allumer un peu afin qu il s occupe de moi. Apres lui avoir dit que j aimerais des preliminaires et qu on fasse l amour, j entends : " Vas-y mec, on ne t en voudra pas."  Ah oui, le micro etait branche. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.1875, 'joy': 1, 'sadness': 3, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 1}
+8
+3
+ratio nb_mot / possessif/perso :
+233
+ratio de pronoms ciblant auteur des pronoms :
+57
+
+Aujourd hui, preliminaires avec mon conjoint. En voulant descendre sensuellement le long de mon corps, il s est coince le nez dans mon piercing de nombril. Le fou rire engendre m a fait peter. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.74999999999999989, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 2}
+11
+0
+ratio nb_mot / possessif/perso :
+0
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, je suis en pleins preliminaires avec mon copain et, alors que je lui fais des baisers dans le cou, il me dit qu il apprecie la facon dont je caresse son sexe. Mes mains etaient sur son torse. C etait mon chat qui avait fait irruption dans le lit. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+4
+3
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, preliminaires avec mon nouveau copain. Lorsqu il se met a me caresser les seins, je hurle de douleur. " Oups, pardon, deformation professionnelle !"  Il est boulanger. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 1, 'sadness': 2, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+11
+2
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, apres des preliminaires parfaits dans des draps de soie, j emmene ma compagne vers sa surprise\u00a0: un bain chaud parseme de petales de rose et entoure de nombreuses bougies parfumees. Mon chien et sa passion pour l eau nous ont devances. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 0}
+27
+9
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+55
+
+Aujourd hui, j arrive a ramener une femme chez moi. Apres des preliminaires tendres, elle commence a me griffer le dos puis finit par devenir folle et me dit : " Insulte-moi !"  Surpris et un peu sous le choc, je n ai rien trouve de mieux a lui dire que : " T as un gros cul !"  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.91666666666666674, 'joy': 0, 'sadness': 2, 'disgust': 2, 'anger': 4, 'surprise': 4, 'fear': 6}
+3
+12
+ratio nb_mot / possessif/perso :
+58
+ratio de pronoms ciblant auteur des pronoms :
+71
+
+Aujourd hui, pendant nos preliminaires, mon copain m a souffle a l oreille : " J ai envie..."  Tout emoustillee, j ai repondu langoureusement : " Moi aussi..."  avant qu il n ajoute : " ... de patates sautees !"  VDM\n\n
+
+sentiment_values :
+{'polarity': -1.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+6
+5
+ratio nb_mot / possessif/perso :
+120
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, apres quelques semaines de relation, ma copine et moi decidons de concretiser. Les preliminaires commencent a devenir intenses et nous sommes sur le point de passer a l acte. Me dire qu elle n etait finalement pas prete ? Bien trop simple. Elle a prefere simuler des convulsions. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.125, 'joy': 1, 'sadness': 0, 'disgust': 1, 'anger': 0, 'surprise': 1, 'fear': 0}
+23
+2
+ratio nb_mot / possessif/perso :
+250
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, premier moment coquin avec mon copain. Pendant les preliminaires, il s est arrete en enlevant ses chaussettes pour m expliquer ce qu etait un ongle de pied incarne. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 1, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 1, 'fear': 2}
+21
+3
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+83
+
+Aujourd hui, alors que j etais en plein preliminaires avec ma nouvelle copine, nous avons ete surpris d entendre la Marseillaise a fond dans la chambre. Mes colocs avaient cache une enceinte Bluetooth sous mon lit et ont attendu le bon moment pour lancer notre bel hymne. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.4375, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 2}
+4
+ratio nb_mot / possessif/perso :
+75
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, ma nouvelle petite amie a fait seulement trois bruits durant l acte : un baillement pendant les preliminaires, un rire quand je l ai penetree et un soupir de soulagement lorsque j ai fini. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.375, 'joy': 0, 'sadness': 3, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+2
+6
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, pendant les preliminaires, ma copine me murmure sensuellement : " Utilise tes pieds !"  Un peu choque, mais n osant pas la vexer, je m execute. Elle hurle alors : " MAIS POUR ATTRAPER LA CAPOTE, TU ES CON OU QUOI ?!"  Oh. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.125, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 1}
+1
+ratio nb_mot / possessif/perso :
+800
+ratio de pronoms ciblant auteur des pronoms :
+62
+
+Aujourd hui, alors qu avec ma femme nous nous tripotons mutuellement pendant les preliminaires, elle me dit que cela serait plus efficace et agreable si l on se chauffait chacun de notre cote. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 0, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+13
+3
+ratio nb_mot / possessif/perso :
+333
+ratio de pronoms ciblant auteur des pronoms :
+70
+
+Aujourd hui, ma femme rentre tard. En me rejoignant dans le lit, elle me reveille pour faire un calin coquin. Au beau milieu des preliminaires, je lui fais comprendre que j aimerais une fellation. Sa reponse : " Non, pas ce soir. J ai mange McDo et je veux garder le bon gout des potatoes."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.6875, 'joy': 0, 'sadness': 2, 'disgust': 2, 'anger': 1, 'surprise': 2, 'fear': 2}
+13
+3
+ratio nb_mot / possessif/perso :
+333
+ratio de pronoms ciblant auteur des pronoms :
+70
+
+Aujourd hui, ma femme rentre tard. En me rejoignant dans le lit, elle me reveille pour faire un calin coquin. Au beau milieu des preliminaires, je lui fais comprendre que j aimerais une fellation. Sa reponse : " Non, pas ce soir. J ai mange McDo et je veux garder le bon gout des potatoes."  VDM\n,
+
+sentiment_values :
+{'polarity': -0.6875, 'joy': 0, 'sadness': 2, 'disgust': 2, 'anger': 1, 'surprise': 2, 'fear': 2}
+8
+2
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, je me rends compte que toute ma promotion a une plus grosse poitrine que la mienne. Je suis la seule fille de l equipe. VDM\n \n
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 1, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 0, 'fear': 1}
+3
+4
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, mariage d un ami Allemand. La premiere musique lancee par le DJ est francaise. Le titre ? " Je ne t aime plus mon amour" . Vive les maries. VDM\n\n
+
+sentiment_values :
+{'polarity': -1.0, 'joy': 0, 'sadness': 0, 'disgust': 1, 'anger': 0, 'surprise': 1, 'fear': 1}
+14
+4
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, mon mari m annonce qu il veut divorcer. La raison : " Ma mere ne t aime toujours pas malgre notre union."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.375, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+1
+ratio nb_mot / possessif/perso :
+800
+ratio de pronoms ciblant auteur des pronoms :
+62
+
+Aujourd hui, alors qu avec ma femme nous nous tripotons mutuellement pendant les preliminaires, elle me dit que cela serait plus efficace et agreable si l on se chauffait chacun de notre cote. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 0, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+12
+3
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+44
+
+Aujourd hui, visite surprise de mon mari au travail. Ma collegue, voulant etre sympa, lui dit : " Oh, elle nous parle tout le temps de toi Jonathan !"  Il s appelle Michael et je ne connais pas de Jonathan. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.58333333333333326, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 2}
+36
+5
+ratio nb_mot / possessif/perso :
+240
+ratio de pronoms ciblant auteur des pronoms :
+58
+
+Aujourd hui, j avoue a ma famille que je suis bisexuelle. Pendant le repas ma jeune cousine refuse de manger. Ma grand-mere, contrairement a son habitude, ne la force pas : " J aimerais te dire qu il faut manger de tout mais je refuse que tu deviennes comme ta cousine" . VDM\n\n
+
+sentiment_values :
+{'polarity': -0.33333333333333331, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+22
+1
+ratio nb_mot / possessif/perso :
+700
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, je suis en cours et je discute pour la premiere fois avec le garcon qui me plait. Nous nous levons pour changer de salle et remarquons en meme temps les traces rouges que j ai laissees sur ma chaise. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+7
+2
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, sur un site coquin, j ai clique sur une video. Sur la miniature, il y avait un tableau ou etaient ecrites des formules mathematiques. J ai voulu en verifier la veracite. Je suis trop obsede par mes etudes. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.6875, 'joy': 0, 'sadness': 2, 'disgust': 1, 'anger': 1, 'surprise': 2, 'fear': 3}
+1
+5
+ratio nb_mot / possessif/perso :
+180
+ratio de pronoms ciblant auteur des pronoms :
+77
+
+Aujourd hui, je vais au travail a pied, me motivant avec un joint assez charge. Devant un feu vert interminable, une voiture s arrete pour que je traverse. J aurais pu m executer comme tout le monde mais evidemment, au lieu de ca, je suis rentre dans la voiture en criant "  au cinema, mon brave ! "
+
+sentiment_values :
+{'polarity': -0.3125, 'joy': 0, 'sadness': 2, 'disgust': 1, 'anger': 3, 'surprise': 2, 'fear': 3}
+11
+2
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, faisant les preliminaires a ma copine. Je retire ma main pleine de sang... En ayant voulu l exciter je lui ai declare ses regles. VDM
+
+sentiment_values :
+{'polarity': -0.5625, 'joy': 0, 'sadness': 3, 'disgust': 1, 'anger': 1, 'surprise': 1, 'fear': 2}
+5
+2
+ratio nb_mot / possessif/perso :
+550
+ratio de pronoms ciblant auteur des pronoms :
+54
+
+Aujourd hui, sa fait 10mn qu on suit une femme en voiture mais qui ne sait vraiment pas conduire je fait appel de phare je klaxon pui je la double je la regarde elle me fait un doigt d honneur tout en me regardant et la boom elle a fonce dans la voiture de devant. attention au jeune chauffeur lol
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 1}
+7
+ratio nb_mot / possessif/perso :
+71
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, et depuis peu il y a quelqu un que j aime, et la seule chose que j ai trouve pour la draguer c est:" Alizee, le feu" VDM
+
+sentiment_values :
+{'polarity': -0.875, 'joy': 0, 'sadness': 1, 'disgust': 2, 'anger': 2, 'surprise': 0, 'fear': 2}
+1
+ratio nb_mot / possessif/perso :
+600
+ratio de pronoms ciblant auteur des pronoms :
+83
+
+Aujourd hui, dans mon lycee mes camarades m ont raconte une blague quand je suis triste je pleure du jus de carotte parce que je suis roux
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 1, 'sadness': 2, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 1}
+3
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+77
+
+Aujourd hui, j etais en cours quand le prof ma appelait pour allait au tableau et je discuter du coup je l entendez pas et dun coup il me eu le desu c est comme sa que je me suis faite virait du cour #vdm
+
+sentiment_values :
+{'polarity': -0.58333333333333326, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 2, 'surprise': 1, 'fear': 3}
+5
+6
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, ma mere m a demandez si j avait aprit ma tache final d espagnol de une page je lui est repondut " oui "  elle est allee touchee la Xbox dans ma chambre .. elle etait chaude comme jamais .VDM
+
+sentiment_values :
+{'polarity': -0.3125, 'joy': 0, 'sadness': 2, 'disgust': 1, 'anger': 3, 'surprise': 0, 'fear': 1}
+1
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui j ai refais mon linkin au petit dej. VDM
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+4
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, ma mere me dit le plus serieusement possible apres avoir entendu une chanson a la TV : " tu sais, pour moi Paname, c etait pas Paris, mais plutot Panama" . VDM
+
+sentiment_values :
+{'polarity': -0.33333333333333331, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+10
+0
+ratio nb_mot / possessif/perso :
+0
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui,mon jumeau arrive en classe avec un kebab et des frites et dit je suis le resto du coeur qui en veut? la prof le vire en lui jetant une frite dessus. VDM
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 2}
+5
+ratio nb_mot / possessif/perso :
+60
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, j ai u client qui ma pri tete 3 h pour prix il vais teurr a
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+9
+9
+ratio nb_mot / possessif/perso :
+88
+ratio de pronoms ciblant auteur des pronoms :
+25
+
+Aujourd hui, j ai decouvert a quel point mon ex-copine etait une femme formidable. Alors non, elle n a pas brule mes affaires, ne les a pas dechirees, ni jetees a la poubelle. Non, elle, c est une fille bien. Elle les a donnees a une oeuvre de charite. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.083333333333333315, 'joy': 2, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+16
+6
+ratio nb_mot / possessif/perso :
+183
+ratio de pronoms ciblant auteur des pronoms :
+72
+
+Aujourd hui, j ai mal choisi mon restaurant pour mon diner. J ai pu assister en direct a la demande en mariage de mon ex-mari a la femme pour qui il m avait quittee. Champagne, bague en diamant ; il a sorti le grand jeu. Moi, il m avait demande en cachant une bague en plastique dans un Big Mac. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 1, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+2
+5
+ratio nb_mot / possessif/perso :
+260
+ratio de pronoms ciblant auteur des pronoms :
+38
+
+Aujourd hui, ma meilleure amie m annonce qu elle se met en couple et emmenage avec mon ex-copain, avec qui ca s est tres mal termine. Elle m a toutefois assure qu elle lui avait bien fait comprendre qu il s etait comporte avec moi comme un salaud. Quand meme. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 2, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+7
+5
+ratio nb_mot / possessif/perso :
+220
+ratio de pronoms ciblant auteur des pronoms :
+63
+
+Aujourd hui, je revois mon ex au bout de 3 mois de separation. Elle m avoue qu elle m aime encore et qu elle serait capable de me pardonner et de me donner une autre chance. C est elle qui m a trompe. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 2}
+12
+8
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+33
+
+Aujourd hui, mon ex s est remise en couple. Je le sais parce qu elle a publie une photo d elle avec son nouveau mec. En legende, on peut lire : " 2 ans deja."  Mon ex et moi avons rompu il y a un an. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.125, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+1
+ratio nb_mot / possessif/perso :
+500
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, mon ex est venu me demander quelle marque de preservatifs je prenais lorsqu on etait ensemble car sa nouvelle copine n utilise pas les memes. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.375, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+26
+1
+ratio nb_mot / possessif/perso :
+500
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, je me marie. Le pretre, grand ami de ma famille, a appele mon futur mari par le nom de mon ex au moment de la question cruciale. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+10
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, je rentre chez moi et trouve mon appartement ruine. Tout est brise et casse, et en boucle passe la chanson " Les Betises"  de Sabine Paturel. Mon ex a rempli tous les points de la chanson. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.625, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 2}
+9
+6
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+62
+
+Aujourd hui, ma copine et moi tombons sur son ex par hasard dans la rue, l ex dont elle etait absolument amoureuse. C est emue qu elle nous presente l un a l autre : " Voici mon ex."  C est moi qu elle pointait du doigt. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+19
+3
+ratio nb_mot / possessif/perso :
+266
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, apres un an sans nouvelle de mon fiance, qui par consequent etait devenu mon ex, je recois un SMS de ce dernier. Naive, je pensais qu il allait me donner un motif de cette rupture. Il voulait juste savoir si je disais : " Crayons de bois, crayons gris ou crayons a papier ?"  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.625, 'joy': 0, 'sadness': 4, 'disgust': 1, 'anger': 0, 'surprise': 1, 'fear': 3}
+3
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, j ai appris devant un groupe d amis, que ma meilleure amie avait fait un plan a trois avec mon ex. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+1
+2
+ratio nb_mot / possessif/perso :
+750
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, mon cheri, avec qui je vis un amour secret, qui est aussi mon patron, m invite chez lui car il veut me presenter a ses parents. Arrivee chez eux je me rend compte que le mec devant moi, de dos, me dit quelque chose. Son frere. Mon ex. Enchantee. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.66666666666666663, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 1, 'fear': 3}
+5
+3
+ratio nb_mot / possessif/perso :
+233
+ratio de pronoms ciblant auteur des pronoms :
+57
+
+Aujourd hui, j ai croise mon ex belle-mere en faisant les courses. En discutant, j ai appris qu elle n etait pas au courant que son fils et moi etions separes. Ca va faire cinq ans. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+28
+7
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+71
+
+Aujourd hui, je sors de chez l estheticienne et croise la mere de mon ex. Je m attendais a tout, sauf : " C est quand mon fils te largue que tu commences a faire des efforts pour ressembler a quelque chose."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+4
+0
+ratio nb_mot / possessif/perso :
+0
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, je travaille dans une agence de voyage et je me suis fait larguer. Mon ex est venu reserver un voyage pour lui... et sa nouvelle copine. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 2}
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, mon ex-petit ami, qui m a quitte sans explication et qui fait silence radio depuis notre rupture, est passe tout sourire a la maison pour recuperer sa boite de capotes. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.375, 'joy': 3, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, mon ex-petit ami, qui m a quitte sans explication et qui fait silence radio depuis notre rupture, est passe tout sourire a la maison pour recuperer sa boite de capotes. VDM\n,
+
+sentiment_values :
+{'polarity': 0.375, 'joy': 3, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+14
+5
+ratio nb_mot / possessif/perso :
+240
+ratio de pronoms ciblant auteur des pronoms :
+33
+
+Aujourd hui, mon grand frere me demande d aller chercher son telephone se trouvant dans son lit. D humeur altruiste, j accepte. Il me dit alors en rigolant : " Ne fais pas gaffe aux sextoys et aux preservatifs usages."  Il y avait effectivement des sextoys et des preservatifs usages dans son lit. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 2, 'fear': 1}
+16
+8
+ratio nb_mot / possessif/perso :
+162
+ratio de pronoms ciblant auteur des pronoms :
+46
+
+Aujourd hui, j ai enfin avoue a mes parents que je suis bisexuel. Ma mere m a repondu qu elle etait deja au courant. Je lui ai demande si elle avait devine grace a son instinct maternel. Sa reponse fut cinglante : " Non, je suis tombee sur ta boite a sextoys."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.44999999999999996, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 2, 'surprise': 2, 'fear': 2}
+24
+3
+ratio nb_mot / possessif/perso :
+233
+ratio de pronoms ciblant auteur des pronoms :
+57
+
+Aujourd hui, comme tous les jours, je fais des compositions florales sur commande. Un client m a demande en me suppliant si je pouvais ajouter dans son bouquet le godemichet qu il veut offrir a sa femme. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0625, 'joy': 2, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+2
+ratio nb_mot / possessif/perso :
+250
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, le gode que j ai trouve chez moi aurait pu etre a ma mere, si je ne vivais pas avec mon pere. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+0
+9
+ratio nb_mot / possessif/perso :
+55
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, c est grasse mat . Il est 9 h quand quelqu un sonne a la porte. C est le concierge qui vient relever les radiateurs et qui lance a mon copain : " Vous n allez pas m arreter, quand meme ?!"  Sur la table basse, les restes de notre folle soiree. Menottes et sextoys... VDM\n\n
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 3, 'disgust': 1, 'anger': 3, 'surprise': 3, 'fear': 5}
+4
+ratio nb_mot / possessif/perso :
+75
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, mon cher et tendre m a caresse la joue avec mon sextoy en annoncant " Papouilles de bite !"  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.125, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+13
+3
+ratio nb_mot / possessif/perso :
+333
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, mes amis m ont dit qu ils allaient mettre fin a ma longue periode de celibat, qu ils avaient trouve LA personne parfaite et qu ils avaient arrange un rendez-vous pour moi. Emue, je me prepare et pars au rendez-vous. Un gode avec un n\u0153ud papillon m attendait sur un banc. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+2
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, mon fils de dix ans vient me voir avec le godemichet de ma femme dans la main et me dit : " Papa, tu as perdu ton zizi."  VDM\n\n
+
+sentiment_values :
+{'polarity': -1.0, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+6
+6
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+37
+
+Aujourd hui, j ai participe a l emission " Un diner presque parfait" . Lors du repas, les invites se sont rendus dans la salle de bain pour y faire leurs commentaires. Salle de bain ou trone betement mon godemichet, pose devant le miroir. On ne voit que lui. J attends la diffusion avec impatience. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.33333333333333331, 'joy': 2, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 0}
+1
+ratio nb_mot / possessif/perso :
+500
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, j ai decouvert que ma mere rangeait ses sextoys dans la pochette que je lui avais confectionnee en primaire. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+15
+1
+ratio nb_mot / possessif/perso :
+600
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, je travaille dans une societe de conseil. Pendant une reunion, un client qui commercialise des sextoys declare qu il en vend meme dans des coins perdus. Combien de chances pour qu il cite le nom du minuscule hameau ou j habite ? Pour tous les regards des collegues tournes vers moi, VDM\n\n
+
+sentiment_values :
+{'polarity': 0.125, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+25
+9
+ratio nb_mot / possessif/perso :
+111
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, je suis en vacances chez ma grand-mere. Elle me demande de l accompagner a une reunion Tupperware avec ses copines. J accepte. Il s agissait en fait d une reunion sextoys et c est elle qui m a explique comment fonctionnaient la plupart des " jouets" . VDM\n\n
+
+sentiment_values :
+{'polarity': 0.33333333333333331, 'joy': 2, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 0}
+24
+3
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, je m\u2019apprete a manger une banane en fin de repas et j ai eu la surprise de trouver un gode-banane au milieu des vraies. Mon pere l avait achete sur Internet car il se disait que ce serait drole de voir la tete des gens qui le trouveraient. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+33
+8
+ratio nb_mot / possessif/perso :
+75
+ratio de pronoms ciblant auteur des pronoms :
+83
+
+Aujourd hui, j ai remis a mon directeur le rapport final d un gros projet. Tout fier, je contemple mon \u0153uvre. Page 24, dans une capture d ecran d un site Internet faite sur mon ordi, on peut voir dans la barre d outils Internet Explorer : " Godes et sextoys" . VDM\n\n
+
+sentiment_values :
+{'polarity': -1.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+7
+5
+ratio nb_mot / possessif/perso :
+140
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, trois collegues sont venus successivement dans mon bureau pour m emprunter mon stylo. Le dernier, mon boss, a eu un petit sourire en coin en me le rendant. Intriguee, j ai examine le stylo : " Sextoys et plaisirs vibrants" . C etait offert avec ma derniere commande. VDM\n\n
+
+sentiment_values :
+{'polarity': -1.3877787807814457e-17, 'joy': 2, 'sadness': 3, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+7
+5
+ratio nb_mot / possessif/perso :
+140
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, trois collegues sont venus successivement dans mon bureau pour m emprunter mon stylo. Le dernier, mon boss, a eu un petit sourire en coin en me le rendant. Intriguee, j ai examine le stylo : " Sextoys et plaisirs vibrants" . C etait offert avec ma derniere commande. VDM\n,
+
+sentiment_values :
+{'polarity': -1.3877787807814457e-17, 'joy': 2, 'sadness': 3, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+10
+3
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+88
+
+Aujourd hui, comme chaque jour, je prends mon medicament en me levant. Je remarque quelques temps plus tard que je ne ressens aucune amelioration. En allant verifier la plaquette, je realise que j ai pris le medicament pour la fievre de mon chat. Meme l hotesse du centre anti-poison a ri. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5625, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 3, 'fear': 3}
+17
+8
+ratio nb_mot / possessif/perso :
+112
+ratio de pronoms ciblant auteur des pronoms :
+44
+
+Aujourd hui, et comme presque tous les jours, j entends mes voisins faire l amour depuis mes toilettes car leur chambre se trouve juste derriere. Pour les ennuyer, je tire la chasse d eau a chaque fois. J ai fini par croiser la voisine qui m a demande : " Ca va la diarrhee ?"  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 3, 'disgust': 1, 'anger': 3, 'surprise': 1, 'fear': 3}
+6
+3
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+33
+
+Aujourd hui, je commence un nouveau job au sein d une entreprise familiale. Apres 10 minutes de formation, la mere et le pere ont commence une violente dispute. Chacun d entre eux a quitte la piece en hurlant. Ils ont demande le divorce. Bienvenue dans le monde du travail. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5357142857142857, 'joy': 1, 'sadness': 3, 'disgust': 2, 'anger': 4, 'surprise': 3, 'fear': 3}
+23
+5
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+70
+
+Aujourd hui, j accouche de mon 4eme enfant. Je suis un peu inquiete car le bebe se presente par le siege. Mon gynecologue me rassure en me disant qu il n y aura aucun probleme car mon vagin est " un vrai boulevard" . VDM\n\n
+
+sentiment_values :
+{'polarity': 0.20000000000000001, 'joy': 3, 'sadness': 2, 'disgust': 0, 'anger': 2, 'surprise': 2, 'fear': 2}
+5
+11
+ratio nb_mot / possessif/perso :
+81
+ratio de pronoms ciblant auteur des pronoms :
+77
+
+Aujourd hui, j explique a une amie que je ne peux plus sortir de chez moi sans croiser mon voisin hyper collant, et que j ai l impression d etre espionnee. Elle a l air sceptique. Soudain, nous entendons de l exterieur : " Alors la non, c est pas vrai ! Je ne vous espionne pas."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.58333333333333337, 'joy': 0, 'sadness': 0, 'disgust': 1, 'anger': 0, 'surprise': 2, 'fear': 2}
+3
+ratio nb_mot / possessif/perso :
+266
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, alors que je suis enceinte de huit mois, mon compagnon me devisage et me dit : " J espere quand meme qu elle sera jolie notre fille."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+21
+7
+ratio nb_mot / possessif/perso :
+85
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, je controle le billet d entree d un homme d une cinquantaine d annees. Je lui demande pourquoi il en a pris un au tarif enfant : " Parce que je suis enfant de Dieu."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.10000000000000003, 'joy': 2, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 1, 'fear': 1}
+18
+7
+ratio nb_mot / possessif/perso :
+142
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, j ai voulu envoyer une photo de mon oeil malade a ma mere. 10 minutes plus tard, elle m appelle : " Tu feras attention la prochaine fois, pense a verifier ton arriere plan."  Sur la photo, il y avait mon copain completement nu, le sexe bien en evidence. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.3214285714285714, 'joy': 1, 'sadness': 4, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 3}
+4
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, j ai du expliquer a ma fille de 4 ans qu elle ne pouvait pas faire pipi sur son frere de 2 ans. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+1
+ratio nb_mot / possessif/perso :
+500
+ratio de pronoms ciblant auteur des pronoms :
+80
+
+Aujourd hui, je me suis rendu compte que l odeur reconfortante de ma mere pendant mon enfance etait en realite celle de la Marijuana qu elle fumait. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.125, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+17
+4
+ratio nb_mot / possessif/perso :
+125
+ratio de pronoms ciblant auteur des pronoms :
+80
+
+Aujourd hui, alors que je me promenais tranquillement en ville, j ai assiste a une jolie photo de mariage devant la mairie. Le marie n etait autre que mon copain depuis 6 ans et la mariee, son ex. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+8
+3
+ratio nb_mot / possessif/perso :
+166
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, une " amie"  me demande si je pourrais l aider dans les preparatifs de son mariage. Mariage auquel elle ne compte pas me convier. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 0}
+10
+6
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, mariage de ma fille. Arrivee sur place, je lui fais remarquer qu elle a oublie de m envoyer l invitation. " C est juste que tu n etais pas invitee."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+6
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, a mon mariage, ma femme a confesse lors de son discours devant toute l assemblee qu elle avait accepte de sortir avec moi a l epoque car je ressemblais a Jean-Pascal de la Star Academy. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+23
+2
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, j invite ma copine au restaurant pour la demander en mariage. Le serveur au moment du dessert demande devant ma future femme si c est bien ici la table pour la demande en mariage. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 2, 'surprise': 1, 'fear': 0}
+2
+ratio nb_mot / possessif/perso :
+350
+ratio de pronoms ciblant auteur des pronoms :
+57
+
+Aujourd hui, en tombant sur la serie tele Friends, je me suis rendu compte que les v\u0153ux prononces par mon mari lors de notre mariage il y a trois ans etaient les memes que ceux de Chandler. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+12
+6
+ratio nb_mot / possessif/perso :
+50
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, j ai passe la soiree a devorer des yeux une charmante jeune femme a un mariage. Apparemment l attraction etait reciproque. C est ce que son mari m a dit en tout cas. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 0}
+34
+3
+ratio nb_mot / possessif/perso :
+66
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, c est mon mariage. Allant aux toilettes et en fermant la porte, je surprends une conversation avec comme mots cles : " Mariage de merde, bouffe de merde, fiesta de bouseux, congres de clodos."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5625, 'joy': 0, 'sadness': 0, 'disgust': 2, 'anger': 2, 'surprise': 2, 'fear': 1}
+5
+ratio nb_mot / possessif/perso :
+80
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, j apprends que mon mari m a trompe, le jour de notre mariage, pour " destresser" . VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, mon mari est tellement pris par son travail qu il a meme repondu a un SMS a notre mariage devant le maire. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.625, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 1}
+15
+4
+ratio nb_mot / possessif/perso :
+125
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, c est le mariage de ma meilleure amie. Il etait convenu qu apres la bague et le bisou, j embrasse les maries sur la joue. Sur le coup de l emotion, j ai embrasse le mari sur la bouche. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+19
+5
+ratio nb_mot / possessif/perso :
+160
+ratio de pronoms ciblant auteur des pronoms :
+62
+
+Aujourd hui, mariage de mon meilleur ami dont je suis le seul temoin. Etant a ses cotes, je le vois verser une larme au moment ou la future mariee entre dans l eglise. C est a ce moment qu il me dit : " Putain, mec, je suis pas amoureux."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.24999999999999997, 'joy': 1, 'sadness': 2, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+23
+5
+ratio nb_mot / possessif/perso :
+280
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, ma meilleure amie depuis 13 ans m annonce qu elle va se marier avec son copain, avec qui elle est depuis 4 ans. Tres heureuse, je la felicite et m imagine deja en demoiselle d honneur. Puis elle m explique que son copain ne veut pas de moi au mariage, car il est trop jaloux de notre amitie. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 1, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 1}
+6
+8
+ratio nb_mot / possessif/perso :
+125
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, l animateur a notre mariage propose un jeu qui est cense unir le couple. Il faut dire les defauts de l autre, afin d ameliorer le futur. Seul probleme : mon mari se sent vite agresse. Il s est braque a la 1ere critique. Il est parti et m a laisse seule avec les invites. Il ne veut plus me voir. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.90000000000000002, 'joy': 0, 'sadness': 5, 'disgust': 2, 'anger': 4, 'surprise': 1, 'fear': 5}
+32
+10
+ratio nb_mot / possessif/perso :
+80
+ratio de pronoms ciblant auteur des pronoms :
+25
+
+Aujourd hui, mariage religieux d une amie. Ma fille de 4 ans, fille d honneur, joue tranquillement au premier rang. Lorsque le pretre a dit : " Mon Dieu, daigne benir ces alliances" , elle s est exclamee tres haut et fort : " On dit s il te plait."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.41666666666666663, 'joy': 5, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 0}
+10
+5
+ratio nb_mot / possessif/perso :
+80
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, j apprends que la moitie de ma famille, habitant a Geneve, n assistera pas a mon mariage en Bretagne, car c est trop loin. A la place, ils partiront en vacances en Asie. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+10
+5
+ratio nb_mot / possessif/perso :
+80
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, j apprends que la moitie de ma famille, habitant a Geneve, n assistera pas a mon mariage en Bretagne, car c est trop loin. A la place, ils partiront en vacances en Asie. VDM\n,
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+14
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, ma copine m annonce que nous allons bientot etre trois... Le temps que l appart de ma belle-mere soit remis a neuf. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+8
+6
+ratio nb_mot / possessif/perso :
+266
+ratio de pronoms ciblant auteur des pronoms :
+68
+
+Aujourd hui, je suis chez mon osteopathe pour mon dos. Il commence a me manipuler, plus fermement que d habitude. Je lui demande s il est contrarie et il me repond : " Ma belle-mere est en vacances chez nous, ma femme est chiante et j ai arrete de fumer depuis trois semaines."  J ai eu mal, tres mal. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.20000000000000001, 'joy': 1, 'sadness': 3, 'disgust': 1, 'anger': 2, 'surprise': 0, 'fear': 1}
+27
+4
+ratio nb_mot / possessif/perso :
+125
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, ma belle-mere a decouvert une nouveaute Facebook. En effet, sous le message annoncant que mon mari et moi avons mis fin a notre relation, nous pouvons lire : " Josette aime ca."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+3
+4
+ratio nb_mot / possessif/perso :
+225
+ratio de pronoms ciblant auteur des pronoms :
+55
+
+Aujourd hui, rencontre avec ma " belle-mere"  dans un cafe. La premiere chose qu elle me dit : " Bonjour Ben. Si tu sors avec ma fille que pour coucher avec elle, je coupe ta queue et je la balance aux poissons."  Super. Vivement la suite. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.29166666666666669, 'joy': 1, 'sadness': 2, 'disgust': 1, 'anger': 3, 'surprise': 2, 'fear': 3}
+3
+3
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+44
+
+Aujourd hui, je me suis fait plaquer par ma copine car elle s entendait a merveille avec ma mere. C etait la le probleme. Selon elle, une copine ne peut pas bien s entendre avec sa belle-mere. Quelle logique implacable ! VDM\n\n
+
+sentiment_values :
+{'polarity': -0.40000000000000002, 'joy': 1, 'sadness': 3, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 2}
+7
+5
+ratio nb_mot / possessif/perso :
+220
+ratio de pronoms ciblant auteur des pronoms :
+63
+
+Aujourd hui en me reveillant, mon mari etait deja hors du lit. Je pense l entendre passer dans le couloir et je lui dis : " Alleeez, fais pas ton timide, ramene ton sexe tout de suite et viens me faire des choses !"  Et une voix me repond : " Il est parti chercher du pain..."  C etait ma belle-mere. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.625, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 0, 'fear': 2}
+10
+7
+ratio nb_mot / possessif/perso :
+142
+ratio de pronoms ciblant auteur des pronoms :
+90
+
+Aujourd hui, je suis etourdi, comme d habitude. Mon pere me propose de mettre un Post-it la ou je regarde le plus souvent le matin pour me rappeler ce que j ai a faire. Ma belle-mere a cru malin de citer ma verge comme lieu possible. Desormais, on m appelle " pense-bite" . VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 1, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+18
+5
+ratio nb_mot / possessif/perso :
+120
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, ma belle-mere m a servi de la puree brulante. Rien d extraordinaire, me direz-vous. Seulement, elle l a aimablement deposee dans le creux de ma main tendue pour demander le sel. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.4375, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 1, 'surprise': 1, 'fear': 3}
+25
+9
+ratio nb_mot / possessif/perso :
+55
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, mon fils a six ans. Repas en famille, ma belle-mere (tres susceptible) a (mal) fait la cuisine. Le petit ne l a pas loupee : " C est pas bon, le manger !"  Belle-maman faisant les gros yeux, il a pris soin de se justifier : " Papa aussi, il trouve ca degueulasse."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 3, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 2}
+10
+7
+ratio nb_mot / possessif/perso :
+142
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, je regarde " L amour est dans le pre"  avec ma belle-mere. Elle fait un pronostic sur tous les couples et tape dans le mille a chaque fois. Je lui demande alors si l histoire d amour entre son fils et moi va durer. Elle repond : " Je prefere ne pas me prononcer."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 2, 'surprise': 0, 'fear': 1}
+13
+4
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, je me presente aux enfants de mon cheri : " Bonjour, je suis votre nouvelle belle-mere."  Reponse de la petite : " Pffff, elles disent toutes ca."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.125, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+8
+1
+ratio nb_mot / possessif/perso :
+1200
+ratio de pronoms ciblant auteur des pronoms :
+58
+
+Aujourd hui, je suis chez moi avec ma femme et ma belle-mere, et mon bebe de dix semaines se met a pleurer dans son berceau. Tout en le bercant, je lui explique combien sa grand mere est casse-couilles et que sa mere prend le meme chemin. J avais oublie que le babyphone etait branche. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.20833333333333331, 'joy': 1, 'sadness': 3, 'disgust': 0, 'anger': 2, 'surprise': 1, 'fear': 1}
+22
+9
+ratio nb_mot / possessif/perso :
+177
+ratio de pronoms ciblant auteur des pronoms :
+37
+
+Aujourd hui, ma belle-mere m a achete une tisane et du miel car je tousse. Surpris, je la remercie en lui disant qu apres tout, on pourrait tres bien s entendre. Elle a ajoute : " Vous pouvez crever. Je le fais pour ma fille, car elle n arrive pas a dormir a force de vous entendre cracher vos poumons."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.050000000000000017, 'joy': 3, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 2}
+2
+4
+ratio nb_mot / possessif/perso :
+125
+ratio de pronoms ciblant auteur des pronoms :
+80
+
+Aujourd hui, mon copain m a demandee en mariage devant ma belle-famille. Ma belle-mere s est mise a pleurer. De tristesse. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 2, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 1}
+3
+8
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, depart en vacances avec ma copine. Creme solaire : j ai. Raquettes de tennis : j ai. Maillot de bain : j ai ! Billets d avion : j ai. Brosse a dents : j ai. Shorts, tongs, T-shirts : j ai ! Belle-mere... J ai aussi. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.20000000000000001, 'joy': 3, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 2}
+7
+4
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, ma copine me presente a son pere et sa belle-mere. Arrive chez elle, la belle-mere me lance : " Encore toi ?!"  d un air etonne. C etait la mere de mon ex. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+7
+4
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, ma copine me presente a son pere et sa belle-mere. Arrive chez elle, la belle-mere me lance : " Encore toi ?!"  d un air etonne. C etait la mere de mon ex. VDM\n,
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+4
+6
+ratio nb_mot / possessif/perso :
+33
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, premier rencard avec un collegue de travail. J ai eu droit a 3 heures de balade dans Paris, 2 heures de diner, 1h30 de cinema, 45 minutes pour un " dernier verre"  chez lui, 30 minutes d embrassades langoureuses, 20 minutes de preliminaires et... 20 secondes de penetration. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.10000000000000003, 'joy': 2, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 2}
+27
+9
+ratio nb_mot / possessif/perso :
+111
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, rencard avec une fille rencontree sur Internet. J arrive une demi-heure en avance, la fille etait la. Je l aborde, commence a la draguer sans lui dire qui je suis. Au bout d une demi-heure, elle s absente et m envoie un message : " Viens vite, g 1 boulet ki me drag."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.24999999999999997, 'joy': 2, 'sadness': 1, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 2}
+14
+8
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, rencard surprise avec une fille rencontree sur Internet. Je porte une chemise rouge pour qu elle me reconnaisse. Apres deux heures a l attendre, je decide de rentrer. Je lui envoie un e-mail : " J ai decide de partir car je ne t ai pas vue."  Reponse : " J ai decide de partir car je t ai vu."  VDM\n\n
+
+sentiment_values :
+{'polarity': -0.16666666666666669, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+27
+7
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+42
+
+Aujourd hui, je vais quitter Paris et j ai mis mon ancien appartement en location. Pendant une visite, un locataire potentiel s est connecte sur Tinder, pour " voir s il y a des plans cul dans le quartier" . VDM\n\n
+
+sentiment_values :
+{'polarity': -0.875, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 1}
+0
+9
+ratio nb_mot / possessif/perso :
+77
+ratio de pronoms ciblant auteur des pronoms :
+42
+
+Aujourd hui, j ai un premier rencard avec une fille rencontree sur le Net. A l heure du rendez-vous, j envoie un ami en eclaireur pour me dire comment elle est " en vrai"  et si ca vaut le coup de la rencontrer. Il l a trouvee vraiment charmante. Elle l a trouve vraiment charmant aussi... VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 2, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 1}
+19
+11
+ratio nb_mot / possessif/perso :
+118
+ratio de pronoms ciblant auteur des pronoms :
+53
+
+Aujourd hui, j envoie un e-mail a Emmanuelle, une collaboratrice au boulot : " Il faut que l on discute, RDV a 10 h lundi."  A 18 h, je suis sous la douche, un SMS arrive sur mon tel, je demande a ma femme de me le lire. Elle me dit : " C est Emmanuelle qui demande si on fait cela chez toi ou chez elle."  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 2, 'surprise': 0, 'fear': 0}
+10
+4
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+75
+
+Aujourd hui, j ai eu mon premier rencard avec une demoiselle rencontree sur le Net, dont les photographies laissaient transparaitre une charmante personne. Une rencontre organisee des le lendemain de notre premier contact, pour plus de " folie" . A priori, elle est diplomee d un master Photoshop. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 3, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+14
+0
+ratio nb_mot / possessif/perso :
+0
+ratio de pronoms ciblant auteur des pronoms :
+0
+
+Aujourd hui, premier rencard au restaurant avec un homme rencontre sur internet. Pour plus de convivialite, il est venu avec sa femme et ses enfants. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 2, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+3
+5
+ratio nb_mot / possessif/perso :
+120
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, ma meilleure amie, celibataire de longue date, m apprend que mon petit copain avec qui je suis depuis 8 mois a un compte Tinder et lui a propose un rencard. Elle a accepte. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.25, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 0}
+9
+4
+ratio nb_mot / possessif/perso :
+300
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, mon petit ami italien me dit qu il a pris des photos via Skype lors de notre dernier rendez-vous virtuel, pendant lequel j ai effectue un petit strip-tease pour lui, et qu elles sont tres sexy. Curieuse, je demande a les voir. Il les a postees publiquement sur mon mur Facebook. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.24999999999999997, 'joy': 1, 'sadness': 3, 'disgust': 0, 'anger': 1, 'surprise': 2, 'fear': 2}
+9
+5
+ratio nb_mot / possessif/perso :
+120
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, avec des amis un peu ivres, nous avons cree un profil Tinder pour mon chat, avec comme commentaire : " Alors il y a de la petite chatte dans le coin ? Miaou !"  Il a eu plus de succes que moi. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.083333333333333343, 'joy': 1, 'sadness': 2, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+3
+2
+ratio nb_mot / possessif/perso :
+550
+ratio de pronoms ciblant auteur des pronoms :
+72
+
+Aujourd hui, c est le grand jour. Je vais rencontrer la femme de ma vie selon Meetic, Mlle V, en dessous de la tour Eiffel. Le stress monte petit a petit et chaque fille que je rencontre semble etre ma promise. Une bombe arrive, me regarde, me demande mon nom, je lui donne, elle part. C etait elle. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.075000000000000011, 'joy': 2, 'sadness': 3, 'disgust': 1, 'anger': 4, 'surprise': 4, 'fear': 2}
+34
+7
+ratio nb_mot / possessif/perso :
+128
+ratio de pronoms ciblant auteur des pronoms :
+44
+
+Aujourd hui, ca fait trois jours que ma copine a eu un accident. Je suis alle chez elle arroser ses fleurs. J ai trouve son portable avec les SMS d un certain " David"  qui demandait pourquoi elle avait rate le " RDV habituel du vendredi"  et si elle m avait finalement largue. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 1, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 1, 'fear': 2}
+32
+7
+ratio nb_mot / possessif/perso :
+71
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui, je participe a une soiree Meetic. Ayant repere une charmante jeune femme, je decide de l approcher. Mais avant d avoir pu prononcer le moindre mot, elle m avoue qu elle est en couple et venait juste voir a quoi ressemblaient les " echecs de la societe" . VDM\n\n
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 0, 'sadness': 2, 'disgust': 1, 'anger': 0, 'surprise': 1, 'fear': 1}
+24
+7
+ratio nb_mot / possessif/perso :
+157
+ratio de pronoms ciblant auteur des pronoms :
+63
+
+Aujourd hui, mon copain me quitte apres plus de 3 ans de relation. Il m a dit : " Je voudrais me recentrer un peu sur moi meme."  Je viens de le voir avec une autre fille qui, visiblement, l aide a se recentrer au niveau de sa bouche. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.41666666666666663, 'joy': 1, 'sadness': 2, 'disgust': 0, 'anger': 1, 'surprise': 1, 'fear': 2}
+15
+1
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, j ai voulu mater un film porno. La toute nouvelle enceinte bluetooth etait restee allumee dans la chambre ou dormait ma copine. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+9
+8
+ratio nb_mot / possessif/perso :
+75
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, mon collegue m a conseille d arreter de fumer car la cigarette me donne " une mine epouvantable"  et me provoque " une odeur atroce" . Je n ai jamais fume de toute ma vie. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.45833333333333331, 'joy': 1, 'sadness': 2, 'disgust': 2, 'anger': 4, 'surprise': 1, 'fear': 4}
+8
+4
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+83
+
+Aujourd hui, j ai un massage de prevu. C est tellement agreable qu au bout de quelques minutes, je m endors. Rien d anormal me direz-vous. Sauf que la masseuse, c etait moi. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.375, 'joy': 1, 'sadness': 0, 'disgust': 1, 'anger': 1, 'surprise': 1, 'fear': 1}
+6
+3
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+50
+
+Aujourd hui, j appelle ma grand mere de 88 ans pour prendre de ses nouvelles. Elle n a pas le temps de me parler. Elle regarde une serie sur Netflix. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.5, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 1, 'fear': 1}
+11
+7
+ratio nb_mot / possessif/perso :
+85
+ratio de pronoms ciblant auteur des pronoms :
+83
+
+Aujourd hui, et depuis 4 ans, j habite l Ile de la Reunion. Je recois un message d une amie en Metropole qui me demande si ici, nous n avons pas ete touches par l ouragan Irma dans les Antilles. Je n ose pas et ne sais pas quoi lui repondre. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.083333333333333329, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 2, 'surprise': 0, 'fear': 1}
+2
+ratio nb_mot / possessif/perso :
+150
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, j ai decouvert que la plante que j arrose depuis deux ans dans ma cuisine est en realite une plante en plastique. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 1}
+3
+ratio nb_mot / possessif/perso :
+133
+ratio de pronoms ciblant auteur des pronoms :
+25
+
+Aujourd hui, mon pere est revenu avec les croissants qu il est alle chercher il y a 5 ans. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.25, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+2
+7
+ratio nb_mot / possessif/perso :
+42
+ratio de pronoms ciblant auteur des pronoms :
+66
+
+Aujourd hui, apres ses 3 premiers jours a l ecole maternelle, ma fille m a traite tres distinctement de " tarte au fion" . Ca promet. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.5, 'joy': 2, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 0, 'fear': 0}
+3
+4
+ratio nb_mot / possessif/perso :
+50
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, au moment d embrasser pour la premiere fois l homme que j aime, j eternue violemment. Coup de boule. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.33333333333333331, 'joy': 0, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 1, 'fear': 2}
+17
+5
+ratio nb_mot / possessif/perso :
+200
+ratio de pronoms ciblant auteur des pronoms :
+60
+
+Aujourd hui j apprends que demain il y a greve des transports. Je suis toute fiere car moi, je vais au boulot en velo. Je fais des courses rapidement avant de rentrer et pose donc mon velo contre une barriere. En ressortant, il n est plus la et demain, ce sera 10 km a pied. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.16666666666666666, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 2, 'surprise': 1, 'fear': 0}
+25
+9
+ratio nb_mot / possessif/perso :
+111
+ratio de pronoms ciblant auteur des pronoms :
+80
+
+Aujourd hui, je me reveille et j apprends a la radio que les bus font greve, pas de bol je dois aller chez l ophtalmo. Courageux, je me decide a partir a pied vers l hopital. J arrive apres 1h15 de marche et on m annonce que le docteur n est pas la, a cause de la greve des bus. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.050000000000000003, 'joy': 0, 'sadness': 1, 'disgust': 0, 'anger': 2, 'surprise': 1, 'fear': 2}
+10
+1
+ratio nb_mot / possessif/perso :
+500
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, je savoure une pizza avec mon cheri. On devait partir a Rome en amoureux ce matin et savourer ces petites joyeusetes gustatives sur des places magnifiques. Greve des pilotes et vol annule. On est en train de se consoler chez Pizza Hut. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.42857142857142849, 'joy': 1, 'sadness': 5, 'disgust': 3, 'anger': 1, 'surprise': 2, 'fear': 1}
+12
+2
+ratio nb_mot / possessif/perso :
+250
+ratio de pronoms ciblant auteur des pronoms :
+40
+
+Aujourd hui, j apprends que tous mes profs sont en greve demain. Genial, enfin une journee seule et tranquille a la maison ! C etait compter sans ma mere, prof, en greve aussi. VDM\n\n
+
+sentiment_values :
+{'polarity': -0.16666666666666666, 'joy': 0, 'sadness': 3, 'disgust': 1, 'anger': 3, 'surprise': 1, 'fear': 1}
+3
+2
+ratio nb_mot / possessif/perso :
+100
+ratio de pronoms ciblant auteur des pronoms :
+100
+
+Aujourd hui, greve de la SNCF. Jour durant lequel je devais passer mon entretien d embauche... a la SNCF. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 0}
+10
+12
+ratio nb_mot / possessif/perso :
+108
+ratio de pronoms ciblant auteur des pronoms :
+46
+
+Aujourd hui, il y avait des greves et il a fallu que j emmene ma fille au bureau. Le soir, en rentrant, elle a dit a ma femme, qui est tres jalouse, que je faisais la bise a toutes les secretaires. J ai proteste, car c est evidemment faux, mais la petite a rajoute : " Si, c est vrai ! Meme que tu m as dit de pas le dire !"  VDM\n\n
+
+sentiment_values :
+{'polarity': 0.050000000000000003, 'joy': 2, 'sadness': 1, 'disgust': 1, 'anger': 2, 'surprise': 0, 'fear': 0}
+9
+6
+ratio nb_mot / possessif/perso :
+116
+ratio de pronoms ciblant auteur des pronoms :
+42
+
+Aujourd hui, ca fait deux semaines que mon copain fait la greve du sexe. Depuis que je lui ai offert le livre " Comment donner du plaisir au lit" , il me dit qu il attend de l avoir fini. Il n a pas encore commence a le lire. VDM\n\n
+
+sentiment_values :
+{'polarity': 0.0, 'joy': 1, 'sadness': 1, 'disgust': 0, 'anger': 1, 'surprise': 0, 'fear': 1}
+1
+1
+ratio nb_mot / possessif/perso :
+0
+ratio de pronoms ciblant auteur des pronoms :
+0
+
+Aujourd hui, depart au boulot et arrivee en avance a la gare pour prendre le train. Greve
+sentiment_values :
+{'polarity': -0.75, 'joy': 0, 'sadness': 0, 'disgust': 0, 'anger': 0, 'surprise': 2, 'fear': 2}
+
+(Rpy) C:\Users\Max\Desktop\scrapping_vdm\web>

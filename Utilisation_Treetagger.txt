@@ -1,0 +1,5 @@
+
+Pour utiliser le tagger, il faut installer Treetagger, et mettre le wrapper-python par dessus, pour avoir le tagger fr.
+
+La commande sur l'invité est :
+tag-french <nom_du_ficher>

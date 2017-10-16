@@ -1,5 +1,8 @@
 
+#Ignore les fichier pyc
+*.pyc
 
-#Ignore les fichiers .pyc, pyd & pyo
-*.py[ocd]
+#Ignore les fichiers .pyd & pyo
+*.py[od]
+
 
