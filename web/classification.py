@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler 
 from sklearn.naive_bayes import GaussianNB
-
+import sklearn.metrics as metrics
 
 
 french_stops = set(stopwords.words('french'))
@@ -82,6 +82,7 @@ class Classifier :
 		self.tweets = infos
 		self.clf=None
 		self.scaler=StandardScaler()
+		self.clust=[]
 
 	#Crée le classifieur, on utilise un classifieur bayésien naïf pour cet exercice, car on a accès à un certain nombre d'information classifiable rapidement.
 	def create_classifier(self):
@@ -92,34 +93,50 @@ class Classifier :
 
 		self.scaler.fit(training_set)
 		#training_set = self.scaler.transform(training_set)
-		#self.clf = MLPClassifier(solver='sgd', alpha=1e-5, hidden_layer_sizes=(3,15,5,2), random_state=1, warm_start=True, max_iter=1)
+		
 		self.clf = GaussianNB()
 		self.clf = self.clf.fit(training_set, class_values)
-		test_value=[[True,2,6,34,90,-0.675,0,3,2,1,0,1,0,0]]
+		#test_value=[[True,2,6,34,90,-0.675,0,3,2,1,0,1,0,0]]
+		self.clf2 = MLPClassifier(solver='sgd', alpha=1e-5, hidden_layer_sizes=(3,15,5,2), random_state=10, warm_start=True, max_iter=1000)
+		self.clf2 =  self.clf2.fit(training_set, class_values)
 		#print self.scaler.transform(test_value)
 		#test_value=self.scaler.transform(test_value)
-		print self.clf.predict((test_value))
+		#print self.clf.predict((test_value))
 		#self.testing_classifier()
 
 	#Fonction de test pour évaluer rapidement l'efficacité du classifieur
 	def testing_classifier(self):
 		test_twitter= [u"Aujourd'hui par +30° j'ai eu le droit à un \"Mlle!Mlle! Je crois que ya une dame qui vous suis avec des collants pour vous\" #Joie #NTMFDChien",u"LE truc qu'il ne faut jamais faire putain... \"Tiens j'vais aller chez une coiffeuse que j'ai jamais vue de ma vie\". Erreur fatale bordel.",u"Mauvaise journee de merde, je vais au boulot, greve surprise de la RATP", u"Si vous passez une mauvaise journée, dites-vous que ma voiture est pleine d'impacts de marrons après m'être garé une nuit sous un marronnier",
 		u"Aujourd'hui j'ai croise le plus grand footballeur africain de ma génération",u"Aujourd'hui, j'ai reussi à avancer dans ma vie, j'ai gagne en confiance!",u"Aujourd'hui j'ai pu revoir mes amis post bac pour la remise des diplomes. Je sais que je suis plus tout seul, et que c'est à moi de jouer",u"Ca veut dire 15 euros l\'kebab ? Meme pas en rêve",u"Aujourd’hui, j’ai décidé de quitter le Parti Socialiste. Je quitte un parti mais je ne quitte ni le socialisme ni les socialistes. #M1717"]
-		self.preprocess(test_twitter)
-		#test_val = pd.read_table("Data_apprentissage/testing_data.csv", dtype=None, delimiter ="@",header = 0, encoding = encoding) 
+		#self.preprocess(test_twitter, True, False, True)
+		self.create_classifier()
+		test_val = pd.read_table("Data_apprentissage/testing_data.csv", dtype=None, delimiter ="@",header = 0, encoding = encoding) 
 		
 		reel_vdm = [0, 0, 0, 0, 1, 1, 1, 1, 1]
 		#self.test_set = test_val
 
 		#self.test_set = list(test_val.ix[:,:].values.tolist())
 		#print self.test_set
-		print self.test_set
+		#print self.test_set
 		#self.test_set = self.scaler.transform(self.test_set)
-		print self.clf.predict(self.test_set)
-
-		pop = cluster.AgglomerativeClustering(n_clusters=2, linkage="ward").fit_predict(self.test_set)
-		print pop
+		cluster1= self.clf.predict(self.test_set)
+		cluster2= self.clf2.predict(self.test_set)
+		#pop = cluster.AgglomerativeClustering(n_clusters=2, linkage="ward").fit_predict(self.test_set)
+		
 		print reel_vdm
+		print self.clust
+		print cluster1
+		print cluster2
+
+	def show_classifier_evaluation(self, true_class, pred_class):
+		print "matrice de confusion :"
+		print metrics.confusion_matrix(true_class,pred_class)
+		print "Precision/Rappel/F0.5 score/F1Score :"
+		f1score=  metrics.precision_recall_fscore_support(true_class,pred_class)[2]
+		f05score = metrics.precision_recall_fscore_support(true_class,pred_class,beta=0.5)[2]
+		print [metrics.precision_score(true_class,pred_class), metrics.recall_score(true_class,pred_class), f05score, f1score]
+
+		
 
 
 	#fonction ayant déjà pré-process les donnees, qui utilise les information dans un fichier pre-fait. Pour le re-creer, necessite treetagger
@@ -148,13 +165,19 @@ class Classifier :
 			
 			if testing :
 				#!!!! Ne fonctionne qu'avec treetagger !!!!!
-				#self.preprocess(self.tweets, plain_text = False, has_tag=False, testing=testing)
-				#Les données issues du preprocessing se trouvent dans testing_data.csv
-				self.test_set = pd.read_table("Data_apprentissage/saved_testing_data.csv", dtype=None, delimiter ="@", encoding = encoding)
+				#self.preprocess(self.tweets, plain_text = False, has_tag=True, testing=testing)
+				#les données issues du preprocessing se trouvent dans testing_data.csv
+				self.test_set = pd.read_table("Data_apprentissage/saved_testing_data.csv", dtype=None, header=None, delimiter ="@", encoding = encoding)
 				
 				self.create_classifier()
 				cluster = self.clf.predict(self.test_set)
-				print cluster
+				cluster2=self.clf2.predict(self.test_set)
+				#print cluster
+				classif_manuel = [1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0]
+				#print len(cluster)
+				#print len(classif_manuel)
+				#return 0
+
 				for i in range(0,len(cluster)):
 					if cluster[i] == 0:
 						print ""
@@ -165,6 +188,15 @@ class Classifier :
 						print "###############"
 						print ""
 						print self.tweets["post"][i]["content"].encode(encoding)
+				print ""
+				print "##### Evaluation #####"
+				print ""
+				print "naive bayesian :"
+				self.show_classifier_evaluation(classif_manuel, cluster)
+
+				#Pas assez de data en training?
+				print "neural network :"
+				self.show_classifier_evaluation(classif_manuel, cluster2)
 
 			else :
 				self.tweets = self.gather_all_vdm()
@@ -198,11 +230,11 @@ class Classifier :
 
 			for tweets in post:
 				#print tweets
-				txt = tweets["content"]
-				txt = txt.replace("'"," ")
+				txt = tweets
 				if has_tag :
-					soup = bs4.BeautifulSoup(txt, "lxml")
-					txt = soup.get_text()
+					txt=tweets["content"]
+
+				txt = txt.replace("'"," ")
 
 				tokens = wordpunct_tokenize(txt)
 				words = [w.lower() for w in tokens]
@@ -317,12 +349,13 @@ class Classifier :
 			#print save_process
 
 			for i in save_process:
+				self.clust.append(pop[result_process.index(i)])
 				i.append(pop[result_process.index(i)])
 				s = s+str(i[0])
 				for j in i[1:]:
 					s = s+"@"+str(j)
 				s = s+"\n"
-				print s
+				#print s
 				#time.sleep(0.1)
 			gathering_data.write(s)
 			
